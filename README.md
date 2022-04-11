@@ -1,7 +1,7 @@
 ### Olá! Meu nome é João Victor, sou desenvolvedor Back-End! 👋
 
-- 😊 Amante da tecnologia e inteligência artificial
-- 🌱 Atualmente estou estudando Python, SQL e Django
+- 😊 Amante da tecnologia, ciência de dados e IA
+- 🌱 Atualmente estou estudando Python (e suas bibliotecas), SQL Server e Django
 - 📫 Contato: jvictor200212@gmail.com
 
 <div align="center">
