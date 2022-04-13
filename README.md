@@ -1,8 +1,8 @@
-### Olá! Meu nome é João Victor, sou desenvolvedor Back-End! 👋
+### Hello! My name is Joao Victor, I am back-end developer! 👋
 
-- 😊 Amante da tecnologia, ciência de dados e IA
-- 🌱 Atualmente estou estudando Python (e suas bibliotecas), SQL Server e Django
-- 📫 Contato: jvictor200212@gmail.com
+- 😊 Technology lover, Data Science and AI
+- 🌱 I'm currently studying Python (and your libs), SQL Server and Django
+- 📫 Contact: jvictor200212@gmail.com
 
 <div align="center">
   <a href="https://github.com/j-victor-silva">
