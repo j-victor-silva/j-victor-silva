@@ -1,7 +1,7 @@
 ### Hello! My name is Joao Victor, I am back-end developer! 👋
 
 - 😊 Technology lover, Data Science and AI
-- 🌱 I'm currently studying Python, Qt, SQL Server, HTML5, CSS3 and Django
+- 🌱 I'm currently studying Python, Qt, SQL Server, and the Python Libs for Data Science.
 - 📫 Contact: jvictor200212@gmail.com
 
 <div align="center">
