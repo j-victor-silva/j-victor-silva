@@ -1,4 +1,4 @@
-### Hello! My name is Joao Victor, I am Python Engineer! 👋
+### Hello! My name is Joao Victor, I am Data Engineer! 👋
 
 - 😊 Technology lover, Data Science, Data Engineering and AI
 - 🌱 I'm currently working as an intern in data engineering.
