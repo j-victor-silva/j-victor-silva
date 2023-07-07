@@ -17,6 +17,8 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 <!--   <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/> -->
   <img align="center" alt="BigQuery" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"/>
+  <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+          
           
           
           
