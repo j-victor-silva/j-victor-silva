@@ -1,7 +1,7 @@
 ### Hello! My name is Joao Victor, I am Data Engineer! 👋
 
 - 😊 Technology lover, Data Science, Data Engineering and AI
-- 🌱 I'm currently working as an intern in data engineering.
+- 🌱 I'm currently working as a data engineer.
 - 📫 Contact: jvictor200212@gmail.com
 
 <div align="center">
